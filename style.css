@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    line-height: 1.5;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+button {
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+.highlight {
+    color: white;
+    background-color: teal;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+}
